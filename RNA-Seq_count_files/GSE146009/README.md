@@ -1,4 +1,4 @@
-The output .count files for GSE146009 present in this directory
+The output .count files for GSE146009 are present in this directory
 
-The normal tissue samples contain the letter "N" in front of the filename.
+If the .count file starts with the letter "N", it is normal tissue.
 Else, the sample is from tumor tissue.
